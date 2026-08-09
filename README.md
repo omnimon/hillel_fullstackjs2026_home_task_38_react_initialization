@@ -18,13 +18,13 @@ The project demonstrates the basics of working with React components, props, and
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/omnimon/hillel_fullstackjs2026_home_task_38_react_initialization.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd hw-38-react
+cd hillel_fullstackjs2026_home_task_38_react_initialization
 ```
 
 Install dependencies:
@@ -49,7 +49,7 @@ npm run build
 
 ## Demo
 
-Live demo: `<vercel-url>`
+Live demo: `https://hillel-fullstackjs2026-home-task-38.vercel.app/`
 
 ## Technologies
 
